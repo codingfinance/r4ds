@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593000405916.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3906411225",
+    "id" : "D15CD0F2",
+    "lastKnownWriteTime" : 1593000480,
+    "last_content_update" : 1593000481000,
+    "path" : "~/Documents/Learning/r4ds/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "4,64",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
