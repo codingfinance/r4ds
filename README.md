@@ -1,4 +1,4 @@
-# R for Data Science
+# R for Data Science - by Garrett Grolemund & Hadley Wickham
 
 This repo contains the practice code for the R for data science book.
 
