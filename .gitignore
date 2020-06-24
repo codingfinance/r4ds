@@ -5,5 +5,5 @@
 .Ruserdata
 .csv*
 .DS_Store
-.Rmd
+.Rmd*
 .DS_Store
